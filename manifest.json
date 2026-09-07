@@ -1,0 +1,17 @@
+{
+  "name": "Todo-Dodo",
+  "short_name": "Todo-Dodo",
+  "description": "Task management with markdown editing, recurrence, and local storage",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f9fafb",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

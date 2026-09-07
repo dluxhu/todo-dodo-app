@@ -26,6 +26,9 @@ They cannot see or damage each other's data.
 
 ```
 index.html   the app, self-contained
+favicon-32.png, favicon.svg, apple-touch-icon.png, todo-dodo-icon-128.png
+             the icons index.html and manifest.json reference
+manifest.json  PWA manifest — absolute paths, so this app must be served at a domain ROOT
 CNAME        the custom domain GitHub Pages serves this on
 .nojekyll    serve paths verbatim; skip the Jekyll build
 ```
